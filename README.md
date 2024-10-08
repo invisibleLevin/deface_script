@@ -1,0 +1,2 @@
+# deface_script
+SC DEFACE FOR EDUCATIONAL PURPOSES
